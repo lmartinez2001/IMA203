@@ -1,0 +1,18 @@
+pour utiliser le tp dans les salles de TP de telecom (dans un terminal)
+ export PATH=/cal/softs/anaconda/anaconda3/bin:$PATH
+Aller dans le repertoire python des donnees du tp et faire
+ spyder tp_ima203_variatio.py
+
+Dans spyder: utiliser les cmmandes cd et pwd pour être sur que vous etes dans le repertoire python des donnees du TP
+
+Puis executer la premiere section (tous les import)
+
+Si vous utilisez un notebook pensez à mettre comme il faut les varaibles
+colaboratory (si vous utilisez google colab) et notebook (si vous utilisez
+un notebook jupyterlab local)
+
+Dans colab les donnees du TP sont téléchargées automatiquement. Dans un
+notebook local ou si vous utilisez spyder, il faudra télécharger les données
+comme indiqué dans le texte du TP et faire des "cd" dans spyder pour aller
+vers ces données téléchargées. 
+
